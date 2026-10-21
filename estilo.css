@@ -231,11 +231,12 @@ body.pagina-menu {
 
 .produto img {
     width: 100%;
+    height: auto;
 }
 
 .produto h3 {
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
     margin: 15px;
     color: rgb(255, 255, 255);
 }
@@ -244,9 +245,10 @@ body.pagina-menu {
     background-color: rgb(130, 0, 0);
     color: rgb(255, 255, 255);
     font-size: 20px;
-    font-weight: bold;
     padding: 12px;
     margin-top: 15px;
+    text-align: center;
+    cursor: pointer;
 }
 .detalhes-produto {
     background-color: rgb(30, 30, 30);
